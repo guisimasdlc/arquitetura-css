@@ -1,0 +1,5 @@
+.pessoas {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 3rem;
+}
